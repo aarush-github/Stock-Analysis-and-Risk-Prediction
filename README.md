@@ -1,2 +1,2 @@
 # Stock-Analysis-and-Risk-Prediction
-Stock Market Analysis and Prediction is the project on technical analysis, visualization and prediction using data provided by  yfinance. By looking at data from the stock market, particularly some giant technology stocks.
+The project "Stock Market Analysis and Risk Prediction" involves technical analysis, visualization, and prediction using data provided by yfinance. The project analyses data from the stock market, specifically some giant technology stocks. The project utilized pandas to collect stock information and visualize various aspects of it. Additionally, it explored several ways to analyze the risk of a stock based on its previous performance history. The project predicted the risk percentage through the Monte Carlo method.
